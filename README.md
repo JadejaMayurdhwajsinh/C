@@ -1,4 +1,4 @@
-C Programming Practice
+# C Programming Practice
 
 This repository contains a collection of C programming examples and practice problems. These programs cover fundamental concepts in C, including:
 
@@ -11,10 +11,10 @@ This repository contains a collection of C programming examples and practice pro
 - File Handling
 - Other common C programming tasks and problem-solving examples
 
-📚 Purpose
+## 📚 Purpose
 This repo is intended for learning, revision, and sharing basic to intermediate C programming knowledge. Ideal for students and beginners looking to strengthen their understanding of the C language.
 
-🚀 How to Use
+## 🚀 How to Use
 You can clone the repository and run the programs using any C compiler like GCC.
 
 ```bash
