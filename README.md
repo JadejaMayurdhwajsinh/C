@@ -17,6 +17,6 @@ This repo is intended for learning, revision, and sharing basic to intermediate 
 🚀 How to Use
 You can clone the repository and run the programs using any C compiler like GCC.
 
-bash
+```bash
 gcc program_name.c -o output
 ./output
